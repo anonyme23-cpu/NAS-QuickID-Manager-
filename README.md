@@ -46,7 +46,7 @@ Falls Sie das System manuell einrichten möchten:
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/IHR_BENUTZERNAME/nas-quickid-manager.git
+git clone https://github.com/anonyme23-cpu/nas-quickid-manager.git
 cd nas-quickid-manager
 ```
 

@@ -133,6 +133,4 @@ MIT-Lizenz - Siehe [LICENSE](LICENSE) für weitere Details.
 
 Haben Sie Fragen oder Vorschläge? Öffnen Sie ein Issue oder kontaktieren Sie mich:
 
-- E-Mail: [Ihre E-Mail-Adresse]
-- Twitter: [@IhrHandle]
-- Website: [Ihre Website]
+- discord:  saeckeberger

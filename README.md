@@ -30,7 +30,7 @@ Ein einfaches, Docker-basiertes Verwaltungssystem für Synology NAS QuickIDs. Pe
 
 ```bash
 # Repository klonen
-git clone https://github.com/IHR_BENUTZERNAME/nas-quickid-manager.git
+git clone https://github.com/anonyme23-cpu/nas-quickid-manager.git
 cd nas-quickid-manager
 
 # Installationsskript ausführbar machen und ausführen

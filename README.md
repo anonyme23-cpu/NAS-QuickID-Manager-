@@ -30,8 +30,8 @@ Ein einfaches, Docker-basiertes Verwaltungssystem für Synology NAS QuickIDs. Pe
 
 ```bash
 # Repository klonen
-git clone https://github.com/anonyme23-cpu/nas-quickid-manager.git
-cd nas-quickid-manager
+https://github.com/anonyme23-cpu/NAS-QuickID-Manager-.git
+cd NAS-QuickID-Manager-
 
 # Installationsskript ausführbar machen und ausführen
 chmod +x install.sh
@@ -46,8 +46,8 @@ Falls Sie das System manuell einrichten möchten:
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/anonyme23-cpu/nas-quickid-manager.git
-cd nas-quickid-manager
+https://github.com/anonyme23-cpu/NAS-QuickID-Manager-.git
+cd NAS-QuickID-Manager-
 ```
 
 2. Docker Compose ausführen:
